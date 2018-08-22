@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "to-do list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grant Boughton",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-hapi": "^1.2.0",
+    "core-js": "^2.5.7",
+    "graphql": "^0.13.1",
+    "graphql-tools": "^2.21.0",
+    "hapi": "^17.5.3",
+    "mongoose": "*"
+  }
+}
